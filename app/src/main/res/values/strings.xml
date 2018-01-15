@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="event">Live Events</string>
+    <string name="upevents">Upcoming Events</string>
+    <string name="pevents">Previous Events</string>
+    <string name="about">About us</string>
+
+    <string name="title_logo">NATIONAL GEOGRAPHIC</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+</resources>
